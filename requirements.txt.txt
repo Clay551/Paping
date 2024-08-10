@@ -1,0 +1,7 @@
+socket
+concurrent.futures
+pyfiglet
+colorama
+os
+statistics
+argparse
